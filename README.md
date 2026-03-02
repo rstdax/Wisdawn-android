@@ -1,8 +1,10 @@
 https://play.google.com/store/apps/details?id=com.rst.wisdawn
+https://wisdawn.in
+👆🏻👆🏻👆🏻
 # Wisdawn
 
 > [!NOTE]  
-> This repository houses the codebase for the **Android application** of Wisdawn. 
+> This repository houses the codebase for the **Android application** of Wisdawn.
 > 
 > If you are looking to explore or contribute to the web version of our platform, please visit the [Wisdawn Web Repository](https://github.com/rstdax/wisdawn-website).
 > 
