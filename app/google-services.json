@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "1009283394364",
+    "firebase_url": "https://wisdawn-official-default-rtdb.firebaseio.com",
+    "project_id": "wisdawn-official",
+    "storage_bucket": "wisdawn-official.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009283394364:android:31f2c10a5f01f36510cc39",
+        "android_client_info": {
+          "package_name": "com.rst.wisdawn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009283394364-28mosq6um1apsud662k8smhdos4oc7ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rst.wisdawn",
+            "certificate_hash": "4eb3ece4d713875ac620501b822e3503289acb1b"
+          }
+        },
+        {
+          "client_id": "1009283394364-2dgbipben0b5lhef1j2a99479ekp1f4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rst.wisdawn",
+            "certificate_hash": "85ea8fa9277a0e721f76f715c2031af60240de23"
+          }
+        },
+        {
+          "client_id": "1009283394364-gj4ikhtg64mmc45d4rd56b6ceudkru8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rst.wisdawn",
+            "certificate_hash": "76bb4c4c839441b7ad311168ec88aee806aee5fb"
+          }
+        },
+        {
+          "client_id": "1009283394364-lq8pd3g8giiilsdluclc49omnf7ql2d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rst.wisdawn",
+            "certificate_hash": "9f682fd65b5bbfa985f8943034f88b1308b5de30"
+          }
+        },
+        {
+          "client_id": "1009283394364-o50ng42hrd8u1cffpj1ujvetm5e0eavk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7v2iuzlnACCx0_lG6nU_68TvUYxHqKJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009283394364-o50ng42hrd8u1cffpj1ujvetm5e0eavk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
