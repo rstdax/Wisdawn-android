@@ -3,7 +3,7 @@ https://play.google.com/store/apps/details?id=com.rst.wisdawn
 https://wisdawn.in
 >
 👆🏻👆🏻👆🏻
-# Wisdawn
+# Wisdawn Android
 
 > [!NOTE]  
 > This repository houses the codebase for the **Android application** of Wisdawn.
