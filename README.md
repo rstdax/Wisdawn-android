@@ -20,6 +20,35 @@ https://wisdawn.in
 
 Wisdawn is a collaborative peer-led learning ecosystem. Shifting away from traditional teacher-centric models, Wisdawn empowers students to host mini online workshops, share knowledge, and solve academic doubts collaboratively through a gamified engagement system.
 
+#These external libraries are used in your project:
+
+*react
+*react-dom
+*react-router-dom
+*firebase
+*framer-motion
+*lucide-react
+*clsx
+*tailwind-merge
+*@fontsource/inter
+
+#Dev/build tooling libraries:
+
+*vite
+*@vitejs/plugin-react
+*typescript
+*tailwindcss
+*@tailwindcss/vite
+*eslint
+*@eslint/js
+*typescript-eslint
+*eslint-plugin-react-hooks
+*eslint-plugin-react-refresh
+*@types/react
+*@types/react-dom
+*@types/node
+*globals
+
 ## Features
 
 * **Mini Online Workshops:** Create topic-based sessions and upload learning resources.
