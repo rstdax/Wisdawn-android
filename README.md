@@ -8,13 +8,10 @@ https://play.google.com/store/apps/details?id=com.rst.wisdawn
 > 
 > For regular users, we recommend downloading the official release directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.rst.wisdawn).
 
-<div align="left">
-  <img src="link_to_your_main_hero_screenshot.png" width="400" alt="Wisdawn App Home Screen">
-</div>
-
 <img width="1280" height="720" alt="Untitled design" src="https://github.com/user-attachments/assets/742860f8-9483-496a-b50b-6543089a5f32" />
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/404504d5-cad1-45a2-b69f-9a7c4ca0f06b" />
+<img width="1280" height="720" alt="ss2" src="https://github.com/user-attachments/assets/e6f6eae0-394b-4305-8b62-72405e50e3a4" />
+
 
 
 Wisdawn is a collaborative peer-led learning ecosystem. Shifting away from traditional teacher-centric models, Wisdawn empowers students to host mini online workshops, share knowledge, and solve academic doubts collaboratively through a gamified engagement system.
