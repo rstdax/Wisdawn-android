@@ -1,7 +1,3 @@
-This `README.md` is tailored specifically to your **Wisdawn Android** repository, reflecting your tech stack, your team at Nagaon University, and the specific architecture (Compose + Firebase + Gemini) seen in your code.
-
----
-
 # Wisdawn Android
 
 > [!NOTE]
@@ -75,7 +71,3 @@ Developed with ❤️ by:
 * **Rohan Ranjan Das** – Android Developer
 * **Aryan Dutta** – Web Developer
 * **Rahul Chanda** – UI/UX Designer
-
----
-
-Would you like me to also generate the `libs.versions.toml` file so you can ensure your dependencies stay organized as shown in this README?
