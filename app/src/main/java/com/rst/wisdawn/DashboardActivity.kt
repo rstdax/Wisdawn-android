@@ -449,7 +449,7 @@ class DashboardViewModel : ViewModel() {
 
 class QuestViewModel : ViewModel() {
     private val generativeModel = GenerativeModel(
-        modelName = "gemini-1.5-flash",
+        modelName = "gemini-1.5-pro",
         apiKey = "AIzaSyDDhhaNUrkASV0LxVbUcGjOpqePriF_skA"
     )
 
