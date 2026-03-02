@@ -1,20 +1,12 @@
 https://play.google.com/store/apps/details?id=com.rst.wisdawn
 # Wisdawn
 
-<p align="left">
-  <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build passing">
-  <img src="https://img.shields.io/badge/Play_Store-Download-blue?logo=google-play" alt="Play Store">
-  <img src="https://img.shields.io/github/downloads/YourUsername/Wisdawn-Android/total" alt="GitHub Downloads">
-  <img src="https://img.shields.io/badge/platform-Android-green" alt="Android">
-  <img src="https://img.shields.io/badge/platform-Web-blue" alt="Web">
-</p>
-
 > [!NOTE]  
 > This repository houses the codebase for the **Android application** of Wisdawn. 
 > 
-> If you are looking to explore or contribute to the web version of our platform, please visit the [Wisdawn Web Repository](https://github.com/YourUsername/Wisdawn-Web).
+> If you are looking to explore or contribute to the web version of our platform, please visit the [Wisdawn Web Repository](https://github.com/rstdax/wisdawn-website).
 > 
-> For regular users, we recommend downloading the official release directly from the [Google Play Store](https://play.google.com/store/apps/details?id=your.package.name).
+> For regular users, we recommend downloading the official release directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.rst.wisdawn).
 
 <div align="left">
   <img src="link_to_your_main_hero_screenshot.png" width="400" alt="Wisdawn App Home Screen">
